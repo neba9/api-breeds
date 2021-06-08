@@ -1,6 +1,6 @@
 # README
 
-## Lab-31: Django REST Framework / Docker
+## Django REST Framework / Docker
 
 
 Authors: Nebiyu Kifle
